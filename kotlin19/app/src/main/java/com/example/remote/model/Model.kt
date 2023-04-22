@@ -1,5 +1,6 @@
-package com.example.remote
+package com.example.remote.model
 
-data class Model(
+ class Model:ArrayList<itemModel>()
 
-)
+
+
